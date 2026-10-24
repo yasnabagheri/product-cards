@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "yekanBakh";
+  src: url(assets/fonts/Yekan-Bakh-FaNum-02-Thin.woff) format("truetype");
+}
+
+@theme {
+  --font-yekan: "yakanBakh", "sasns-serif";
+}
